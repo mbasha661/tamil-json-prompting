@@ -1,0 +1,23 @@
+{
+  "subject": "An elderly Chettiar woman stringing a jasmine (malligai) flower garland, wearing a handloom Kanchipuram silk sari in mustard and maroon with a temple-border weave",
+  "setting": {
+    "place": "The inner courtyard (mutram) of a 19th-century Chettinad mansion in Karaikudi, Sivaganga district, Tamil Nadu, with teak pillars, Athangudi tiled floor and brass lamps",
+    "era": "Present day, during the Margazhi month, with a fresh kolam drawn on the damp floor",
+    "time_of_day": "first light, soft dawn"
+  },
+  "lighting": "soft diffused dawn light falling through the courtyard opening, gentle highlights on the silk",
+  "camera": {
+    "shot": "medium shot",
+    "lens": "50mm",
+    "angle": "eye level"
+  },
+  "palette": ["mustard yellow", "maroon", "jasmine white", "kolam rice-flour white", "aged teak brown"],
+  "style": "photorealistic, documentary photography",
+  "aspect_ratio": "4:5",
+  "avoid": ["modern clothing", "plastic objects", "cities or traffic", "oversaturated colours", "extra fingers or distorted hands", "watermarks", "text or logos"],
+  "motion": {
+    "subject_motion": "her hands slowly threading jasmine buds onto the string, flowers swaying slightly",
+    "camera_move": "slow push-in from medium shot towards the hands",
+    "duration_seconds": 5
+  }
+}
